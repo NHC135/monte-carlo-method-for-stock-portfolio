@@ -22,8 +22,7 @@ The project workflow:
 
 Data Collection
 
-Pulls daily closing prices for selected assets via yfinance
-.
+Pulls daily closing prices for selected assets via yfinance.
 
 Calculates daily returns, mean returns, and covariance matrix.
 
@@ -46,122 +45,8 @@ Visualization & Insights
 Plots all simulated portfolio trajectories.
 
 Highlights mean expected growth and 90% confidence interval.
-
-🧮 Mathematical Foundation
-
-For each simulation:
-
-𝑅
-𝑡
-=
-𝜇
-+
-𝐿
-𝑍
-𝑡
-R
-t
 	​
 
-=μ+LZ
-t
-	​
-
-
-where
-
-𝜇
-μ = vector of mean returns
-
-𝐿
-L = Cholesky decomposition of covariance matrix
-
-𝑍
-𝑡
-Z
-t
-	​
-
- = matrix of random shocks
-
-Portfolio returns are aggregated as:
-
-𝑟
-𝑝
-𝑜
-𝑟
-𝑡
-𝑓
-𝑜
-𝑙
-𝑖
-𝑜
-,
-𝑡
-=
-𝑤
-𝑇
-𝑅
-𝑡
-r
-portfolio,t
-	​
-
-=w
-T
-R
-t
-	​
-
-
-and cumulative growth:
-
-𝑉
-𝑡
-=
-𝑉
-0
-×
-∏
-𝑖
-=
-1
-𝑡
-(
-1
-+
-𝑟
-𝑝
-𝑜
-𝑟
-𝑡
-𝑓
-𝑜
-𝑙
-𝑖
-𝑜
-,
-𝑖
-)
-V
-t
-	​
-
-=V
-0
-	​
-
-×
-i=1
-∏
-t
-	​
-
-(1+r
-portfolio,i
-	​
-
-)
 📊 Results
 
 The output is a visual distribution of possible portfolio outcomes, including:
