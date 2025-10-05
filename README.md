@@ -37,7 +37,7 @@ It uses **historical data from Yahoo Finance** to estimate **expected returns**,
 ---
 
 ## 🧮 **Mathematical Foundation**
-explanation and intuition can be found in the notion link
+explanation and intuition can be found in the notion link, as well as the documentation
 https://www.notion.so/Monte-Carlo-Simulation-of-a-Stock-Portfolio-in-Python-27e7e74ba6a38099a5bad1cd8f7c045e?source=copy_link
 ---
 
