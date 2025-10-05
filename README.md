@@ -67,9 +67,6 @@ V_t = V_0 \times \prod_{i=1}^{t} (1 + r_{portfolio,i})
 - Blue line → **Average portfolio performance**  
 - Blue shaded area → **5–95% Confidence Interval**  
 
-Example output (for illustration):  
-![Monte Carlo Simulation Plot](https://upload.wikimedia.org/wikipedia/commons/3/3a/Montecarlo_portfolio_simulation.png)
-
 ---
 
 ## ⚙️ **Technologies Used**
@@ -81,13 +78,3 @@ Example output (for illustration):
 | **matplotlib** | Visualization of portfolio simulations |
 | **yfinance** | Stock data extraction from Yahoo Finance |
 | **datetime** | Managing time periods for data retrieval |
-
----
-
-## 🧰 **Installation**
-
-```bash
-git clone https://github.com/yourusername/monte-carlo-portfolio-sim.git
-cd monte-carlo-portfolio-sim
-pip install pandas numpy matplotlib yfinance
-python monte_carlo_portfolio.py
