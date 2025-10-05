@@ -37,28 +37,8 @@ It uses **historical data from Yahoo Finance** to estimate **expected returns**,
 ---
 
 ## 🧮 **Mathematical Foundation**
-
-For each simulation:
-
-\[
-R_t = \mu + LZ_t
-\]
-
-where  
-- \( \mu \): **Mean return vector**  
-- \( L \): **Cholesky decomposition** of covariance matrix  
-- \( Z_t \): **Random shocks** from a standard normal distribution  
-
-Portfolio return:
-\[
-r_{portfolio,t} = w^T R_t
-\]
-
-Cumulative portfolio value:
-\[
-V_t = V_0 \times \prod_{i=1}^{t} (1 + r_{portfolio,i})
-\]
-
+explanation and intuition can be found in the notion link
+https://www.notion.so/Monte-Carlo-Simulation-of-a-Stock-Portfolio-in-Python-27e7e74ba6a38099a5bad1cd8f7c045e?source=copy_link
 ---
 
 ## 📊 **Results Visualization**
@@ -66,6 +46,7 @@ V_t = V_0 \times \prod_{i=1}^{t} (1 + r_{portfolio,i})
 - Gray lines → All simulated portfolio paths  
 - Blue line → **Average portfolio performance**  
 - Blue shaded area → **5–95% Confidence Interval**  
+<img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/3d5d2878-beca-45e3-80ca-e4a331157468" />
 
 ---
 
