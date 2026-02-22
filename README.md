@@ -65,7 +65,6 @@ The results are visualized through interactive dashboards to provide **data-driv
 
 ```
 .
-├── monte_carlo_simulation.py
 ├── monte_carlo_results.csv
 ├── simulation_summary.csv
 ├── drawdown.csv
