@@ -48,6 +48,10 @@ https://www.notion.so/Monte-Carlo-Simulation-of-a-Stock-Portfolio-in-Python-27e7
 - Blue shaded area → **5–95% Confidence Interval**  
 <img width="1200" height="700" alt="Figure_1" src="https://github.com/user-attachments/assets/e83f85a7-b069-4630-a02a-1e4de2e2e507" />
 
+## PowerBI Visualizations
+<img width="1426" height="804" alt="Screenshot 2026-02-19 212454" src="https://github.com/user-attachments/assets/322b4aa3-41b7-40f4-8d1b-3f248a1143ff" />
+<img width="1430" height="801" alt="Screenshot 2026-02-19 212512" src="https://github.com/user-attachments/assets/729cbdcd-08e1-414f-aafb-24ab26a9b832" />
+
 
 ---
 
