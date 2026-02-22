@@ -1,7 +1,7 @@
 
-# 📊 Monte Carlo Portfolio Risk Analysis
+#  Monte Carlo Portfolio Risk Analysis
 
-## 🚀 Overview
+##  Overview
 
 This project implements a **Monte Carlo simulation framework** to model the stochastic behavior of a multi-asset portfolio and evaluate financial risk under uncertainty.
 
@@ -11,26 +11,26 @@ The results are visualized through interactive dashboards to provide **data-driv
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
-* 📈 Simulates **100,000+ portfolio scenarios** over a 100-day horizon
-* 🔗 Models **correlated asset returns** using Cholesky decomposition
-* ⚖️ Computes key risk metrics:
+* Simulates **100,000+ portfolio scenarios** over a 100-day horizon
+* Models **correlated asset returns** using Cholesky decomposition
+* Computes key risk metrics:
 
   * Value-at-Risk (VaR)
   * Conditional Value-at-Risk (CVaR)
   * Sharpe Ratio
-* 📊 Generates:
+*  Generates:
 
   * Return distributions
   * Confidence intervals (5th–95th percentile)
   * Portfolio growth projections
   * Drawdown analysis
-* 📁 Exports structured datasets for **Power BI visualization**
+*  Exports structured datasets for **Power BI visualization**
 
 ---
 
-## 🏗️ Methodology
+##  Methodology
 
 ### 1. Data Collection
 
@@ -52,16 +52,16 @@ The results are visualized through interactive dashboards to provide **data-driv
 
 ---
 
-## 📊 Sample Insights
+##  Sample Insights
 
-* 📈 Positive expected return with strong upside potential
-* ⚠️ Tail risk identified through CVaR and worst-case outcomes
-* 🔄 Portfolio exhibits **positive skew** (more upside than downside)
-* 📉 Drawdowns are infrequent but occur in **clusters during stress periods**
+*  Positive expected return with strong upside potential
+*  Tail risk identified through CVaR and worst-case outcomes
+*  Portfolio exhibits **positive skew** (more upside than downside)
+*  Drawdowns are infrequent but occur in **clusters during stress periods**
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 .
@@ -73,7 +73,7 @@ The results are visualized through interactive dashboards to provide **data-driv
 
 ---
 
-## 📤 Outputs
+##  Outputs
 
 The simulation generates the following datasets:
 
@@ -93,7 +93,7 @@ These outputs are used to build **Power BI dashboards** for visualization.
 
 ---
 
-## 📊 Visualization
+##  Visualization
 
 The model produces:
 
@@ -104,7 +104,7 @@ The model produces:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Python**: NumPy, Pandas, Matplotlib
 * **Finance/Data**: yfinance
@@ -112,7 +112,7 @@ The model produces:
 
 ---
 
-## ⚠️ Assumptions & Limitations
+##  Assumptions & Limitations
 
 * Asset returns are assumed to follow a **multivariate normal distribution**
 * Does not account for:
@@ -123,7 +123,7 @@ The model produces:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Implement **fat-tailed distributions (t-distribution)**
 * Add **GARCH models** for volatility clustering
@@ -132,7 +132,7 @@ The model produces:
 
 ---
 
-## 💡 Key Takeaway
+##  Key Takeaway
 
 This project demonstrates how Monte Carlo simulation can be used to:
 
@@ -140,7 +140,7 @@ This project demonstrates how Monte Carlo simulation can be used to:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Nathaniel Hwan Choi**
 
