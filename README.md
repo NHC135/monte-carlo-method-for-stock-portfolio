@@ -46,10 +46,11 @@ https://www.notion.so/Monte-Carlo-Simulation-of-a-Stock-Portfolio-in-Python-27e7
 - Gray lines → All simulated portfolio paths  
 - Blue line → **Average portfolio performance**  
 - Blue shaded area → **5–95% Confidence Interval**  
-<img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/3d5d2878-beca-45e3-80ca-e4a331157468" />  
+<img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/3d5d2878-beca-45e3-80ca-e4a331157468" />    
+  
+**updated:**   
+<img width="1200" height="700" alt="Figure_1" src="https://github.com/user-attachments/assets/b2ba1572-ea29-4909-a23b-d83dbcc39e3f" />
 
-**updated:** 
-<img width="1430" height="801" alt="Screenshot 2026-02-19 212512" src="https://github.com/user-attachments/assets/d75e1c87-e1fc-44e8-84fb-da3bf4271a5d" />
 
 ---
 
