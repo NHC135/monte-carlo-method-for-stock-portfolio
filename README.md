@@ -100,7 +100,9 @@ The model produces:
 * Portfolio growth projections with confidence bands
 * Distribution of final portfolio values
 * Drawdown analysis
-* Risk metric summaries
+* Risk metric summaries  
+<img width="1426" height="804" alt="Screenshot 2026-02-19 212454" src="https://github.com/user-attachments/assets/eac8809d-1d59-46e5-8d9e-71ec8c7bdd62" />
+<img width="1430" height="801" alt="Screenshot 2026-02-19 212512" src="https://github.com/user-attachments/assets/2231aaad-3f91-486d-8d9b-a82dcb5679dc" />
 
 ---
 
