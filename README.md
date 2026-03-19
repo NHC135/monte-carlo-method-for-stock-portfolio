@@ -61,18 +61,6 @@ The results are visualized through interactive dashboards to provide **data-driv
 
 ---
 
-##  Project Structure
-
-```
-.
-├── monte_carlo_results.csv
-├── simulation_summary.csv
-├── drawdown.csv
-├── README.md
-```
-
----
-
 ##  Outputs
 
 The simulation generates the following datasets:
